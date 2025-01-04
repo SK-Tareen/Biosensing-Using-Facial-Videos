@@ -60,11 +60,11 @@ The project uses a dataset containing:
    git clone https://github.com/your_username/your_repository.git
    
 2. Make sure you have all required libraries:
-   -numpy==1.21.6
-   -pandas==1.3.5
-   -scipy==1.7.3
-   -scikit-learn==1.0.2
-   -tensorflow==2.8.0
-   -PyWavelets==1.1.1
+   -numpy==1.21.6.
+   -pandas==1.3.5.
+   -scipy==1.7.3.
+   -scikit-learn==1.0.2.
+   -tensorflow==2.8.0.
+   -PyWavelets==1.1.1.
 3. Run main.py
 
