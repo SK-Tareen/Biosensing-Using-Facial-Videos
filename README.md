@@ -66,5 +66,5 @@ The project uses a dataset containing:
    -scikit-learn==1.0.2.
    -tensorflow==2.8.0.
    -PyWavelets==1.1.1.
-3. Run main.py
+4. Run main.py
 
